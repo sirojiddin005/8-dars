@@ -1,0 +1,16 @@
+* {
+    transition: 0.1s;
+}
+a {
+    text-decoration: none !important;
+}
+p {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+a:hover {
+    opacity: 65%;
+}
+svg {
+    cursor: pointer;
+}
