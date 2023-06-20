@@ -48,6 +48,7 @@ svg {
     background-color: black;
     opacity: 90%;
     margin-right: 1px;
+    margin-left: 20px;
 }
 header .dark {
     background-color: rgba(60, 59, 58, 1) !important;
